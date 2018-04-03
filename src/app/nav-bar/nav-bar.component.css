@@ -1,0 +1,5 @@
+.navbar-brand {
+  transform: translateY(-50%);
+  top: 40%;
+  position: absolute;
+}
